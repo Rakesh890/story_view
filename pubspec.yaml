@@ -37,6 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   cached_network_image: any
   video_player: any
+  image_picker: any
+  video_compress: any
+  video_trimmer: any
+  file_selector: any
 
 dev_dependencies:
   flutter_test:
